@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlipSX
-- 👀 My discord - .yapidoras1337
+- 👀 My discord - misterpisulkin
 
 <!---
 FlipSX/FlipSX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
